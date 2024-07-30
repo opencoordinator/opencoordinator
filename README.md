@@ -2,8 +2,11 @@
 # OpenCoordinator - No blocklists Wasabi Wallet Bitcoin Coordinator
 
 OpenCoordinator is alternative coinjoin coordinator for Wasabi Wallet 2.x.
+
 It is open to everyone, **no country blacklists**, **no UTXO blacklists**.
+
 OpenCoordinator is run by experienced team of anonymous freedom activists.
+
 
 
 ### How to switch to OpenCoordinator?
@@ -19,6 +22,7 @@ As of July 25th 2024 coordinator api can now be also accessed by onion domain ju
     http://ocwasabinc5pfdrpgixjd4wwadfsf2yydqihwnduoixkusnydx63utyd.onion/
 
 You are now ready to Coinjoin. 
+
 
 
 ### Learn more
